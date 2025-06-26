@@ -1,6 +1,6 @@
-package ExtraUtilities.worlds.blocks.distribution;
+package Raviravirego76466.worlds.blocks.distribution;
 
-import ExtraUtilities.worlds.drawer.DrawInvertedJunction;;
+import Raviravirego76466.worlds.drawer.DrawInvertedJunction;;
 import arc.Core;
 import arc.graphics.Color;
 import arc.graphics.g2d.*;
@@ -21,7 +21,7 @@ import mindustry.world.Block;
 import mindustry.world.draw.*;
 import mindustry.world.meta.BlockGroup;
 
-import static ExtraUtilities.ExtraUtilitiesMod.*;
+import static Raviravirego76466.ExtraUtilitiesMod.*;
 import static mindustry.Vars.*;
 
 public class InvertedJunction extends Block {
